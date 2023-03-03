@@ -9,7 +9,7 @@ aventura para intentar dar un **giro de 180º** en mi carrera profesional.
 
 
 ---
-
+<!--
 ### ✔ Comandos preferidos
 
 | Comando| Descripción|
@@ -41,7 +41,7 @@ alias cl="clear"
 
 
 
-<!--
+
 **manuelpryda/manuelpryda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
